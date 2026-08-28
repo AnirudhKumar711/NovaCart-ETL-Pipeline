@@ -1,0 +1,30 @@
+2026-08-27 11:48:55,947 | INFO | Source files loaded | orders=918 | customers=120 | products=60 | returns=129
+2026-08-27 11:48:55,988 | INFO | Order validation completed | clean_orders=785 | rejected_orders=115
+2026-08-27 11:48:56,042 | INFO | FACT_SALES created | rows=785
+2026-08-27 11:48:56,044 | INFO | DIM_CUSTOMERS created | rows=120
+2026-08-27 11:48:56,119 | INFO | FEATURE_CUSTOMERS created | rows=120
+2026-08-27 11:48:56,140 | INFO | DIM_PRODUCTS created | rows=60
+2026-08-27 11:48:56,149 | INFO | Pipeline completed | fact_sales=785 | rejected=115 | customers=120 | products=60 | features=120
+2026-08-27 11:48:56,149 | INFO | Pipeline completed | fact_sales=785 | rejected=115 | customers=120 | products=60 | features=120
+2026-08-27 11:48:56,149 | INFO | Pipeline completed | fact_sales=785 | rejected=115 | customers=120 | products=60 | features=120
+2026-08-27 11:48:56,149 | INFO | Pipeline completed | fact_sales=785 | rejected=115 | customers=120 | products=60 | features=120
+2026-08-27 11:48:56,149 | INFO | Pipeline completed | fact_sales=785 | rejected=115 | customers=120 | products=60 | features=120
+2026-08-27 11:48:56,149 | INFO | Pipeline completed | fact_sales=785 | rejected=115 | customers=120 | products=60 | features=120
+2026-08-27 15:07:24,009 | INFO | Source files loaded | orders=918 | customers=120 | products=60 | returns=129
+2026-08-27 15:07:24,054 | INFO | Order validation completed | clean_orders=785 | rejected_orders=115
+2026-08-27 15:07:24,104 | INFO | FACT_SALES created | rows=785
+2026-08-27 15:07:24,106 | INFO | DIM_CUSTOMERS created | rows=120
+2026-08-27 15:07:24,180 | INFO | FEATURE_CUSTOMERS created | rows=120
+2026-08-27 15:07:24,212 | INFO | DIM_PRODUCTS created | rows=60
+2026-08-27 17:47:51,157 | INFO | Source files loaded | orders=918 | customers=120 | products=60 | returns=129
+2026-08-27 17:47:51,215 | INFO | Order validation completed | clean_orders=785 | rejected_orders=115
+2026-08-27 17:47:51,314 | INFO | FACT_SALES created | rows=785
+2026-08-27 17:47:51,318 | INFO | DIM_CUSTOMERS created | rows=120
+2026-08-27 17:47:51,469 | INFO | FEATURE_CUSTOMERS created | rows=120
+2026-08-27 17:47:51,507 | INFO | DIM_PRODUCTS created | rows=60
+2026-08-28 11:39:43,779 | INFO | Source files loaded | orders=918 | customers=120 | products=60 | returns=129
+2026-08-28 11:39:43,820 | INFO | Order validation completed | clean_orders=785 | rejected_orders=115
+2026-08-28 11:39:43,867 | INFO | FACT_SALES created | rows=785
+2026-08-28 11:39:43,869 | INFO | DIM_CUSTOMERS created | rows=120
+2026-08-28 11:39:43,950 | INFO | FEATURE_CUSTOMERS created | rows=120
+2026-08-28 11:39:43,971 | INFO | DIM_PRODUCTS created | rows=60

@@ -1,0 +1,116 @@
+order_id,customer_id,product_id,quantity,amount,currency,order_date,reject_reason
+O00552,,P0035,4,1448.16,USD,30/05/2026,missing customer_id
+O00483,,P0036,3,,USD,03-17-2026,missing customer_id
+O00394,,P0050,2,160.2,USD,19/02/2026,missing customer_id
+O00133,,P0023,1,440.76,INR,01-01-2026,missing customer_id
+O00060,,P0024,3,840.36,INR,10/05/2026,missing customer_id
+O00397,,P0051,3,141.48,INR,29/01/2026,missing customer_id
+O00640,,P0008,1,399.13,USD,06-22-2026,missing customer_id
+O00755,,P0049,1,41.67,GBP,2026-05-09,missing customer_id
+O00664,,P0057,5,2370.3,USD,03-21-2026,missing customer_id
+O00780,,P0052,3,843.75,USD,24/03/2026,missing customer_id
+O00513,,P0004,3,870.06,INR,08/05/2026,missing customer_id
+O00197,,P0007,0,,EUR,05-05-2026,missing customer_id
+O00453,,P0050,3,240.3,USD,27/04/2026,missing customer_id
+O00459,,P0044,3,167.34,GBP,18/03/2026,missing customer_id
+O00341,,P0042,3,422.34,EUR,03/04/2026,missing customer_id
+O00512,,P0002,5,1950.05,USD,2026-06-11,missing customer_id
+O00587,,P0054,3,,GBP,2026-03-14,missing customer_id
+O00895,,P0029,2,229.38,INR,06-22-2026,missing customer_id
+O00442,,P0025,5,236.9,EUR,04/03/2026,missing customer_id
+O00365,,P0008,3,1197.39,USD,04-28-2026,missing customer_id
+O00001,,P0019,3,1129.47,EUR,26/04/2026,missing customer_id
+O00493,,P0032,1,215.62,INR,06-18-2026,missing customer_id
+O00561,,P0017,2,329.08,INR,01-31-2026,missing customer_id
+O00521,,P0012,4,228.96,GBP,04-16-2026,missing customer_id
+O00105,,P0007,4,221.76,EUR,17/06/2026,missing customer_id
+O00651,,P0002,3,1170.03,USD,2026-05-07,missing customer_id
+O00187,,P0049,2,83.34,GBP,2026-04-24,missing customer_id
+O00363,,P0012,4,228.96,GBP,05/06/2026,missing customer_id
+O00688,,P0048,5,2059.75,USD,06-11-2026,missing customer_id
+O00249,,P0006,3,894.27,USD,2026-05-21,missing customer_id
+O00247,,P0042,2,281.56,EUR,02/06/2026,missing customer_id
+O00108,,P0003,2,117.02,INR,20/02/2026,missing customer_id
+O00751,,P0014,4,1472.92,EUR,02-14-2026,missing customer_id
+O00547,,P0021,5,475.05,INR,2026-06-20,missing customer_id
+O00285,,P0027,1,324.72,GBP,02-09-2026,missing customer_id
+O00075,,P0059,4,494.92,EUR,2026-06-16,missing customer_id
+O00807,,P0003,2,117.02,INR,02-23-2026,missing customer_id
+O00722,,P0015,2,619.76,INR,05-29-2026,missing customer_id
+O00393,,P0006,2,596.18,USD,05-08-2026,missing customer_id
+O00782,,P0032,1,215.62,INR,05-14-2026,missing customer_id
+O00865,,P0055,1,156.16,GBP,2026-02-26,missing customer_id
+O00525,,P0033,1,179.15,INR,2026-01-14,missing customer_id
+O00031,,P0003,3,175.53,INR,2026-03-19,missing customer_id
+O00834,,P0013,1,355.12,GBP,2026-03-12,missing customer_id
+O00776,,P0039,5,2451.75,INR,01-11-2026,missing customer_id
+O00830,,P0010,3,117.39,INR,2026-04-10,missing customer_id
+O00836,,P0004,3,870.06,INR,2026-04-18,missing customer_id
+O00388,,P0024,2,560.24,INR,2026-04-21,missing customer_id
+O00549,,P0048,5,2059.75,USD,07/02/2026,missing customer_id
+O00237,,P0004,2,,GBP,2026-05-07,missing customer_id
+O00893,,P0051,5,235.8,INR,01/04/2026,missing customer_id
+O00859,,P0010,2,78.26,INR,2026-01-31,missing customer_id
+O00384,,P0023,3,1322.28,INR,2026-02-03,missing customer_id
+O00564,C0013,P0023,-2,0.0,INR,25/06/2026,quantity must be greater than 0
+O00093,C0026,P0016,-2,0.0,GBP,2026-04-03,quantity must be greater than 0
+O00501,C0002,P0054,0,0.0,GBP,06-26-2026,quantity must be greater than 0
+O00329,C0112,P0008,-2,0.0,USD,06-15-2026,quantity must be greater than 0
+O00369,C0087,P0032,-2,0.0,INR,2026-01-28,quantity must be greater than 0
+O00047,C0119,P0045,-1,0.0,INR,06-14-2026,quantity must be greater than 0
+O00324,C0083,P0005,-2,0.0,GBP,29/06/2026,quantity must be greater than 0
+O00684,C0060,P0005,-2,0.0,GBP,30/01/2026,quantity must be greater than 0
+O00037,C0015,P0002,0,,USD,2026-02-03,quantity must be greater than 0
+O00701,C0043,P0041,-1,0.0,INR,2026-01-20,quantity must be greater than 0
+O00812,C0019,P0015,-1,0.0,INR,03/04/2026,quantity must be greater than 0
+O00605,C0047,P0024,-2,0.0,USD,2026-06-24,quantity must be greater than 0
+O00583,C0044,P0035,0,0.0,USD,05-06-2026,quantity must be greater than 0
+O00682,C0008,P0021,0,0.0,INR,2026-03-20,quantity must be greater than 0
+O00498,C0061,P0034,-1,0.0,INR,08/04/2026,quantity must be greater than 0
+O00515,C0006,P0042,-2,0.0,EUR,01-05-2026,quantity must be greater than 0
+O00180,C0024,P0028,-2,0.0,GBP,2026-03-01,quantity must be greater than 0
+O00345,C0062,P0011,0,0.0,INR,30/01/2026,quantity must be greater than 0
+O00716,C0003,P0017,-2,0.0,INR,2026-05-22,quantity must be greater than 0
+O00775,C0075,P0032,-1,,INR,2026-03-12,quantity must be greater than 0
+O00233,C0065,P0018,-2,0.0,USD,05-20-2026,quantity must be greater than 0
+O00161,C0077,P0050,-1,0.0,USD,01-20-2026,quantity must be greater than 0
+O00458,C0006,P0036,0,0.0,USD,23/02/2026,quantity must be greater than 0
+O00854,C0099,P0010,0,0.0,INR,2026-06-14,quantity must be greater than 0
+O00748,C0048,P0013,0,0.0,GBP,2026-04-07,quantity must be greater than 0
+O00508,C0090,P0026,-2,0.0,GBP,2026-06-20,quantity must be greater than 0
+O00079,C0065,P0033,-1,0.0,INR,04-03-2026,quantity must be greater than 0
+O00023,C0074,P0019,-2,,EUR,04/05/2026,quantity must be greater than 0
+O00507,C0010,P0017,-1,0.0,INR,2026-03-08,quantity must be greater than 0
+O00290,C0015,P0049,0,0.0,GBP,06-23-2026,quantity must be greater than 0
+O00148,C0006,P0015,-2,0.0,INR,22/02/2026,quantity must be greater than 0
+O00282,C0022,P0059,0,0.0,EUR,2026-05-06,quantity must be greater than 0
+O00789,C0078,P0007,-1,0.0,EUR,06-23-2026,quantity must be greater than 0
+O00413,C0067,P0057,0,0.0,USD,2026-01-09,quantity must be greater than 0
+O00615,C0048,P0037,-2,0.0,EUR,2026-06-03,quantity must be greater than 0
+O00425,C0103,P0029,0,0.0,INR,03-15-2026,quantity must be greater than 0
+O00406,C0007,P0039,0,0.0,INR,09/06/2026,quantity must be greater than 0
+O00658,C0115,P0055,5,,GBP,20/04/2026,missing amount
+O00310,C0096,P0035,3,,USD,06-20-2026,missing amount
+O00779,C0048,P0044,4,,GBP,2026-05-16,missing amount
+O00164,C0012,P0029,5,,INR,2026-04-03,missing amount
+O00391,C0080,P0021,1,,INR,06-08-2026,missing amount
+O00485,C0020,P0056,2,,USD,09/04/2026,missing amount
+O00074,C0051,P0016,4,,GBP,2026-03-31,missing amount
+O00646,C0076,P0060,4,,USD,05-05-2026,missing amount
+O00706,C0113,P0007,3,,EUR,09/04/2026,missing amount
+O00353,C0053,P0001,1,,INR,01-22-2026,missing amount
+O00548,C0019,P0035,2,,USD,09/01/2026,missing amount
+O00296,C0087,P0010,5,,INR,03-05-2026,missing amount
+O00152,C0059,P0040,5,,INR,02-08-2026,missing amount
+O00266,C0110,P0015,2,,INR,2026-02-11,missing amount
+O00599,C0056,P0058,1,,EUR,03-21-2026,missing amount
+O00620,C0078,P0052,5,,USD,02/03/2026,missing amount
+O00853,C0018,P0052,1,,USD,04-14-2026,missing amount
+O00693,C0002,P0024,2,,INR,04-02-2026,missing amount
+O00799,C0111,P0025,3,,EUR,21/06/2026,missing amount
+O00327,C0012,P0060,4,,USD,03-16-2026,missing amount
+O00357,C0103,P0045,1,,INR,24/02/2026,missing amount
+O00868,C0112,P0010,3,,INR,05-29-2026,missing amount
+O00163,C0101,P0048,4,,USD,03-10-2026,missing amount
+O00158,C0116,P0043,1,,INR,12/01/2026,missing amount
+O00804,C0074,P0011,1,,INR,2026-03-22,missing amount

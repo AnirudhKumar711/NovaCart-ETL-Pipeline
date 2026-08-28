@@ -1,0 +1,1324 @@
+[
+  {
+    "customer_id": "C0001",
+    "name": "Customer 1",
+    "email": "user1@example.com",
+    "signup_date": "2025-12-07",
+    "address": {
+      "city": "London",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0002",
+    "name": "Customer 2",
+    "email": "user2@example.com",
+    "signup_date": "2025-09-19",
+    "address": {
+      "city": "Mumbai",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0003",
+    "name": "Customer 3",
+    "email": null,
+    "signup_date": "2025-09-28",
+    "address": {
+      "city": "Berlin",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0004",
+    "name": "Customer 4",
+    "email": "user4@example.com",
+    "signup_date": "2024-03-07",
+    "address": {
+      "city": "Mumbai",
+      "country": "United Kingdom"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0005",
+    "name": "Customer 5",
+    "email": "user5@example.com",
+    "signup_date": "2025-03-23",
+    "address": {
+      "city": "Chennai",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0006",
+    "name": "Customer 6",
+    "email": "user6@example.com",
+    "signup_date": "2025-07-26",
+    "address": {
+      "city": "Berlin",
+      "country": "UK"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0007",
+    "name": "Customer 7",
+    "email": "user7@example.com",
+    "signup_date": "2025-09-24",
+    "address": {
+      "city": "London",
+    "customer_id": "C0009",
+    "name": "Customer 9",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0008",
+    "name": "Customer 8",
+    "email": "user8@example.com",
+    "signup_date": "2024-09-18",
+    "address": {
+      "city": "Mumbai",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0009",
+    "name": "Customer 9",
+    "email": null,
+    "signup_date": "2025-03-07",
+    "address": {
+      "city": "Mumbai",
+      "country": "UK"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0010",
+    "name": "Customer 10",
+    "email": "user10@example.com",
+    "signup_date": "2025-11-16",
+    "address": {
+      "city": "Berlin",
+      "country": "IN"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0011",
+    "name": "Customer 11",
+    "email": "user11@example.com",
+    "signup_date": "2025-09-20",
+    "address": {
+      "city": "New York",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0012",
+    "name": "Customer 12",
+    "email": "user12@example.com",
+    "signup_date": "2024-12-24",
+    "address": {
+      "city": "Berlin",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0013",
+    "name": "Customer 13",
+    "email": "user13@example.com",
+    "signup_date": "2025-04-03",
+    "address": {
+      "city": "Chennai",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0014",
+    "name": "Customer 14",
+    "email": "user14@example.com",
+    "signup_date": "2024-12-09",
+    "address": {
+      "city": "London",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0015",
+    "name": "Customer 15",
+    "email": "user15@example.com",
+    "signup_date": "2025-11-05",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0016",
+    "name": "Customer 16",
+    "email": "user16@example.com",
+    "signup_date": "2025-10-26",
+    "address": {
+      "city": "Berlin",
+      "country": "UK"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0017",
+    "name": "Customer 17",
+    "email": "user17@example.com",
+    "signup_date": "2024-11-22",
+    "address": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0018",
+    "name": "Customer 18",
+    "email": "user18@example.com",
+    "signup_date": "2024-06-06",
+    "address": {
+      "city": "Mumbai",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0019",
+    "name": "Customer 19",
+    "email": "user19@example.com",
+    "signup_date": "2024-11-19",
+    "address": {
+      "city": "London",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0020",
+    "name": "Customer 20",
+    "email": "user20@example.com",
+    "signup_date": "2025-09-30",
+    "address": {
+      "city": "Chennai",
+      "country": "U.S.A"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0021",
+    "name": "Customer 21",
+    "email": "user21@example.com",
+    "signup_date": "2024-02-05",
+    "address": {
+      "city": "New York",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0022",
+    "name": "Customer 22",
+    "email": "user22@example.com",
+    "signup_date": "2024-09-09",
+    "address": {
+      "city": "Mumbai",
+      "country": "IN"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0023",
+    "name": "Customer 23",
+    "email": "user23@example.com",
+    "signup_date": "2025-09-06",
+    "address": {
+      "city": "Mumbai",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0024",
+    "name": "Customer 24",
+    "email": "user24@example.com",
+    "signup_date": "2024-10-13",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0025",
+    "name": "Customer 25",
+    "email": "user25@example.com",
+    "signup_date": "2025-04-07",
+    "address": {
+      "city": "Mumbai",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0026",
+    "name": "Customer 26",
+    "email": "user26@example.com",
+    "signup_date": "2025-03-02",
+    "address": {
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0027",
+    "name": "Customer 27",
+    "email": "user27@example.com",
+    "signup_date": "2025-07-20",
+    "address": {
+      "city": "Mumbai",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0028",
+    "name": "Customer 28",
+    "email": "user28@example.com",
+    "signup_date": "2024-08-19",
+    "address": {
+      "city": "Chennai",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0029",
+    "name": "Customer 29",
+    "email": "user29@example.com",
+    "signup_date": "2025-02-21",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0030",
+    "name": "Customer 30",
+    "email": "user30@example.com",
+    "signup_date": "2025-10-13",
+    "address": {
+      "city": "Chennai",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0031",
+    "name": "Customer 31",
+    "email": "user31@example.com",
+    "signup_date": "2024-07-05",
+    "address": {
+      "city": "Berlin",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0032",
+    "name": "Customer 32",
+    "email": "user32@example.com",
+    "signup_date": "2025-07-16",
+    "address": {
+      "city": "London",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0033",
+    "name": "Customer 33",
+    "email": "user33@example.com",
+    "signup_date": "2024-06-28",
+    "address": {
+      "city": "Berlin",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0034",
+    "name": "Customer 34",
+    "email": "user34@example.com",
+    "signup_date": "2024-03-07",
+    "address": {
+      "city": "London",
+      "country": "Germany"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0035",
+    "name": "Customer 35",
+    "email": "user35@example.com",
+    "signup_date": "2025-05-16",
+    "address": {
+      "city": "Chennai",
+      "country": "UK"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0036",
+    "name": "Customer 36",
+    "email": "user36@example.com",
+    "signup_date": "2025-05-11",
+    "address": {
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0037",
+    "name": "Customer 37",
+    "email": null,
+    "signup_date": "2024-03-26",
+    "address": {
+      "city": "Chennai",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0038",
+    "name": "Customer 38",
+    "email": "user38@example.com",
+    "signup_date": "2025-01-28",
+    "address": {
+      "city": "Chennai",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0039",
+    "name": "Customer 39",
+    "email": "user39@example.com",
+    "signup_date": "2024-08-22",
+    "address": {
+      "city": "Berlin",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0040",
+    "name": "Customer 40",
+    "email": "user40@example.com",
+    "signup_date": "2024-05-27",
+    "address": {
+      "city": "Mumbai",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0041",
+    "name": "Customer 41",
+    "email": "user41@example.com",
+    "signup_date": "2024-11-11",
+    "address": {
+      "city": "Berlin",
+      "country": "U.S.A"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0042",
+    "name": "Customer 42",
+    "email": "user42@example.com",
+    "signup_date": "2025-01-04",
+    "address": {
+      "city": "New York",
+      "country": "United Kingdom"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0043",
+    "name": "Customer 43",
+    "email": "user43@example.com",
+    "signup_date": "2025-11-07",
+    "address": {
+      "city": "Chennai",
+      "country": "USA"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0044",
+    "name": "Customer 44",
+    "email": "user44@example.com",
+    "signup_date": "2025-09-12",
+    "address": {
+      "city": "Berlin",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0045",
+    "name": "Customer 45",
+    "email": "user45@example.com",
+    "signup_date": "2025-08-11",
+    "address": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0046",
+    "name": "Customer 46",
+    "email": "user46@example.com",
+    "signup_date": "2025-10-16",
+    "address": {
+      "city": "New York",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0047",
+    "name": "Customer 47",
+    "email": null,
+    "signup_date": "2024-06-27",
+    "address": {
+      "city": "Chennai",
+      "country": "U.S.A"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0048",
+    "name": "Customer 48",
+    "email": "user48@example.com",
+    "signup_date": "2024-08-22",
+    "address": {
+      "city": "New York",
+      "country": "India"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0049",
+    "name": "Customer 49",
+    "email": "user49@example.com",
+    "signup_date": "2025-07-17",
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0050",
+    "name": "Customer 50",
+    "email": "user50@example.com",
+    "signup_date": "2024-09-23",
+    "address": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0051",
+    "name": "Customer 51",
+    "email": "user51@example.com",
+    "signup_date": "2025-03-04",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0052",
+    "name": "Customer 52",
+    "email": "user52@example.com",
+    "signup_date": "2025-11-04",
+    "address": {
+      "city": "Chennai",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0053",
+    "name": "Customer 53",
+    "email": null,
+    "signup_date": "2024-07-30",
+    "address": {
+      "city": "Chennai",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0054",
+    "name": "Customer 54",
+    "email": "user54@example.com",
+    "signup_date": "2024-02-10",
+    "address": {
+      "city": "Berlin",
+      "country": "United Kingdom"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0055",
+    "name": "Customer 55",
+    "email": "user55@example.com",
+    "signup_date": "2024-05-28",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0056",
+    "name": "Customer 56",
+    "email": "user56@example.com",
+    "signup_date": "2024-05-14",
+    "address": {
+      "city": "Mumbai",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0057",
+    "name": "Customer 57",
+    "email": "user57@example.com",
+    "signup_date": "2025-06-06",
+    "address": {
+      "city": "London",
+      "country": "India"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0058",
+    "name": "Customer 58",
+    "email": "user58@example.com",
+    "signup_date": "2024-02-14",
+    "address": {
+      "city": "London",
+      "country": "Germany"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0059",
+    "name": "Customer 59",
+    "email": "user59@example.com",
+    "signup_date": "2025-10-19",
+    "address": {
+      "city": "Chennai",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0060",
+    "name": "Customer 60",
+    "email": null,
+    "signup_date": "2025-05-28",
+    "address": {
+      "city": "Mumbai",
+      "country": "IN"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0061",
+    "name": "Customer 61",
+    "email": "user61@example.com",
+    "signup_date": "2025-10-23",
+    "address": {
+      "city": "Berlin",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0062",
+    "name": "Customer 62",
+    "email": "user62@example.com",
+    "signup_date": "2024-06-24",
+    "address": {
+      "city": "London",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0063",
+    "name": "Customer 63",
+    "email": "user63@example.com",
+    "signup_date": "2024-06-13",
+    "address": {
+      "city": "London",
+      "country": "U.S.A"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0064",
+    "name": "Customer 64",
+    "email": "user64@example.com",
+    "signup_date": "2025-09-14",
+    "address": {
+      "city": "Mumbai",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0065",
+    "name": "Customer 65",
+    "email": "user65@example.com",
+    "signup_date": "2025-05-31",
+    "address": {
+      "city": "London",
+      "country": "India"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0066",
+    "name": "Customer 66",
+    "email": "user66@example.com",
+    "signup_date": "2025-04-19",
+    "address": {
+      "city": "Chennai",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0067",
+    "name": "Customer 67",
+    "email": "user67@example.com",
+    "signup_date": "2025-11-17",
+    "address": {
+      "city": "Chennai",
+      "country": "UK"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0068",
+    "name": "Customer 68",
+    "email": "user68@example.com",
+    "signup_date": "2025-04-08",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0069",
+    "name": "Customer 69",
+    "email": "user69@example.com",
+    "signup_date": "2025-09-09",
+    "address": {
+      "city": "Chennai",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0070",
+    "name": "Customer 70",
+    "email": "user70@example.com",
+    "signup_date": "2024-05-15",
+    "address": {
+      "city": "Mumbai",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0071",
+    "name": "Customer 71",
+    "email": "user71@example.com",
+    "signup_date": "2025-02-20",
+    "address": {
+      "city": "London",
+      "country": "USA"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0072",
+    "name": "Customer 72",
+    "email": "user72@example.com",
+    "signup_date": "2025-04-21",
+    "address": {
+      "city": "Chennai",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0073",
+    "name": "Customer 73",
+    "email": "user73@example.com",
+    "signup_date": "2025-07-27",
+    "address": {
+      "city": "Berlin",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0074",
+    "name": "Customer 74",
+    "email": "user74@example.com",
+    "signup_date": "2025-12-07",
+    "address": {
+      "city": "Berlin",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0075",
+    "name": "Customer 75",
+    "email": "user75@example.com",
+    "signup_date": "2025-04-22",
+    "address": {
+      "city": "London",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0076",
+    "name": "Customer 76",
+    "email": "user76@example.com",
+    "signup_date": "2025-11-23",
+    "address": {
+      "city": "New York",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0077",
+    "name": "Customer 77",
+    "email": "user77@example.com",
+    "signup_date": "2024-09-17",
+    "address": {
+      "city": "London",
+      "country": "IN"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0078",
+    "name": "Customer 78",
+    "email": "user78@example.com",
+    "signup_date": "2024-02-26",
+    "address": {
+      "city": "Berlin",
+      "country": "United Kingdom"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0079",
+    "name": "Customer 79",
+    "email": "user79@example.com",
+    "signup_date": "2025-10-22",
+    "address": {
+      "city": "London",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0080",
+    "name": "Customer 80",
+    "email": "user80@example.com",
+    "signup_date": "2024-07-01",
+    "address": {
+      "city": "London",
+      "country": "USA"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0081",
+    "name": "Customer 81",
+    "email": "user81@example.com",
+    "signup_date": "2025-04-09",
+    "address": {
+      "city": "Berlin",
+      "country": "IN"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0082",
+    "name": "Customer 82",
+    "email": "user82@example.com",
+    "signup_date": "2024-10-14",
+    "address": {
+      "city": "London",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0083",
+    "name": "Customer 83",
+    "email": "user83@example.com",
+    "signup_date": "2024-07-27",
+    "address": {
+      "city": "Chennai",
+      "country": "United Kingdom"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0084",
+    "name": "Customer 84",
+    "email": "user84@example.com",
+    "signup_date": "2024-10-12",
+    "address": {
+      "city": "Chennai",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0085",
+    "name": "Customer 85",
+    "email": "user85@example.com",
+    "signup_date": "2025-10-22",
+    "address": {
+      "city": "London",
+      "country": "UK"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0086",
+    "name": "Customer 86",
+    "email": "user86@example.com",
+    "signup_date": "2025-02-28",
+    "address": {
+      "city": "Mumbai",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0087",
+    "name": "Customer 87",
+    "email": "user87@example.com",
+    "signup_date": "2025-03-05",
+    "address": {
+      "city": "Mumbai",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0088",
+    "name": "Customer 88",
+    "email": "user88@example.com",
+    "signup_date": "2024-12-09",
+    "address": {
+      "city": "Berlin",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0089",
+    "name": "Customer 89",
+    "email": "user89@example.com",
+    "signup_date": "2026-01-01",
+    "address": {
+      "city": "London",
+      "country": "IN"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0090",
+    "name": "Customer 90",
+    "email": "user90@example.com",
+    "signup_date": "2024-05-18",
+    "address": {
+      "city": "Mumbai",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0091",
+    "name": "Customer 91",
+    "email": "user91@example.com",
+    "signup_date": "2024-02-10",
+    "address": {
+      "city": "Berlin",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0092",
+    "name": "Customer 92",
+    "email": "user92@example.com",
+    "signup_date": "2025-07-12",
+    "address": {
+      "city": "Chennai",
+      "country": "IN"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0093",
+    "name": "Customer 93",
+    "email": "user93@example.com",
+    "signup_date": "2025-05-06",
+    "address": {
+      "city": "London",
+      "country": "India"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0094",
+    "name": "Customer 94",
+    "email": "user94@example.com",
+    "signup_date": "2025-11-15",
+    "address": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0095",
+    "name": "Customer 95",
+    "email": "user95@example.com",
+    "signup_date": "2024-03-28",
+    "address": {
+      "city": "Mumbai",
+      "country": "India"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0096",
+    "name": "Customer 96",
+    "email": "user96@example.com",
+    "signup_date": "2025-04-27",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0097",
+    "name": "Customer 97",
+    "email": "user97@example.com",
+    "signup_date": "2025-05-22",
+    "address": {
+      "city": "Berlin",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0098",
+    "name": "Customer 98",
+    "email": null,
+    "signup_date": "2025-04-21",
+    "address": {
+      "city": "Chennai",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0099",
+    "name": "Customer 99",
+    "email": "user99@example.com",
+    "signup_date": "2024-02-18",
+    "address": {
+      "city": "Mumbai",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0100",
+    "name": "Customer 100",
+    "email": "user100@example.com",
+    "signup_date": "2024-10-05",
+    "address": {
+      "city": "Mumbai",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0101",
+    "name": "Customer 101",
+    "email": "user101@example.com",
+    "signup_date": "2024-06-19",
+    "address": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0102",
+    "name": "Customer 102",
+    "email": "user102@example.com",
+    "signup_date": "2025-04-23",
+    "address": {
+      "city": "London",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0103",
+    "name": "Customer 103",
+    "email": "user103@example.com",
+    "signup_date": "2025-03-26",
+    "address": {
+      "city": "New York",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0104",
+    "name": "Customer 104",
+    "email": "user104@example.com",
+    "signup_date": "2025-01-23",
+    "address": {
+      "city": "London",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0105",
+    "name": "Customer 105",
+    "email": "user105@example.com",
+    "signup_date": "2025-05-10",
+    "address": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0106",
+    "name": "Customer 106",
+    "email": null,
+    "signup_date": "2024-11-10",
+    "address": {
+      "city": "London",
+      "country": "DE"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0107",
+    "name": "Customer 107",
+    "email": "user107@example.com",
+    "signup_date": "2025-06-04",
+    "address": {
+      "city": "New York",
+      "country": "United Kingdom"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0108",
+    "name": "Customer 108",
+    "email": "user108@example.com",
+    "signup_date": "2024-05-22",
+    "address": {
+      "city": "New York",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0109",
+    "name": "Customer 109",
+    "email": "user109@example.com",
+    "signup_date": "2025-03-02",
+    "address": {
+      "city": "New York",
+      "country": "United Kingdom"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0110",
+    "name": "Customer 110",
+    "email": "user110@example.com",
+    "signup_date": "2025-03-28",
+    "address": {
+      "city": "New York",
+      "country": "Germany"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0111",
+    "name": "Customer 111",
+    "email": "user111@example.com",
+    "signup_date": "2024-02-17",
+    "address": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0112",
+    "name": "Customer 112",
+    "email": "user112@example.com",
+    "signup_date": "2024-04-04",
+    "address": {
+      "city": "Mumbai",
+      "country": "USA"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0113",
+    "name": "Customer 113",
+    "email": "user113@example.com",
+    "signup_date": "2024-02-23",
+    "address": {
+      "city": "Chennai",
+      "country": "U.S.A"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0114",
+    "name": "Customer 114",
+    "email": "user114@example.com",
+    "signup_date": "2024-09-16",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0115",
+    "name": "Customer 115",
+    "email": "user115@example.com",
+    "signup_date": "2025-05-30",
+    "address": {
+      "city": "New York",
+      "country": "UK"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0116",
+    "name": "Customer 116",
+    "email": "user116@example.com",
+    "signup_date": "2024-12-09",
+    "address": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "is_premium": false
+  },
+  {
+    "customer_id": "C0117",
+    "name": "Customer 117",
+    "email": "user117@example.com",
+    "signup_date": "2024-09-07",
+    "address": {
+      "city": "Chennai",
+      "country": "DE"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0118",
+    "name": "Customer 118",
+    "email": "user118@example.com",
+    "signup_date": "2025-01-08",
+    "address": {
+      "city": "Berlin",
+      "country": "U.S.A"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0119",
+    "name": "Customer 119",
+    "email": "user119@example.com",
+    "signup_date": "2025-04-23",
+    "address": {
+      "city": "Berlin",
+      "country": "USA"
+    },
+    "is_premium": true
+  },
+  {
+    "customer_id": "C0120",
+    "name": "Customer 120",
+    "email": "user120@example.com",
+    "signup_date": "2024-09-04",
+    "address": {
+      "city": "Chennai",
+      "country": "India"
+    },
+    "is_premium": false
+  }
+]
